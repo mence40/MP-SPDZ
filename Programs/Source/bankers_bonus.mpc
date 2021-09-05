@@ -135,7 +135,7 @@ def main():
                                     winning_client_id)
 
         type_run(sint)
-        #type_run(sfix)
+        type_run(sfix)
 
         close_connections(number_clients)
 
